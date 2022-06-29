@@ -13,4 +13,4 @@ spring:
     driver-class-name: org.h2.Driver  #h2 드라이버 설정
     url: jdbc:h2:file:~/test
     username: test  # 사용자 이름 (로그인 시 사용)
-    password: 1234  # 사용자 암호 (로그인 시 사용)
+    password: "{cipher}89cd7bb50355632a44782de7464934595485b4376df7f82d3b6187571adb4961"  # 사용자 암호 (로그인 시 사용)
