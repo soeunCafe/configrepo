@@ -1,6 +1,6 @@
 jwt:
   time: 1000
-  secret: jwt_secret hoho
+  secret: jwt_secret_hohoho
 posco:
   # 암호화
   name: "{cipher}657c744ee74dfee22b1f052dcaca509a83cfbc7f05ab681d39fadb8768b859b6"
