@@ -6,10 +6,10 @@ posco:
   count: 20
   datasource:
     url: jdbc:mysql://localhost:?.?.?.?:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
-    username: noh
+    username: root
     password: 1234
-test:
+spring:
   datasource:
     url: jdbc:mysql://localhost:?.?.?.?:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
-    username: noh
+    username: root
     password: 1234
